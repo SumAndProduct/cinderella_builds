@@ -1,5 +1,5 @@
-# Cinderella Builds
-All Cinderella builds I show off in one of the videos.
+# Cindy Builds
+All Cinderella and CindyJS builds I show off in one of the videos.
 
 ---
 
